@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 [works](https://richardpatterson.github.io/posts/2022-08-01-better.html)
-[works](https://richardpatterson.github.io/_posts/2022-08-08-doesnt.html)
+[doesnt](https://richardpatterson.github.io/_posts/2022-08-08-doesnt.html)
 
 You can use the [editor on GitHub](https://github.com/RichardPatterson/richardpatterson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
