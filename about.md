@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "About me"
-date:   2022-08-05 16:34:03 +0100
+layout: page
+title: About me
+permalink: /about/
 ---
+
 ## Current work & interests
 
 I am an MRC Postdoctoral Fellow in the [Population Health Interventions](https://www.mrc-epid.cam.ac.uk/research/research-areas/population-health-interventions/) programme at the MRC Epidemiology Unit, University of Cambridge.
