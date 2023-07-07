@@ -6,11 +6,12 @@ permalink: /about/
 
 ## Current work & interests
 
-I am an MRC Postdoctoral Fellow in the [Population Health Interventions](https://www.mrc-epid.cam.ac.uk/research/research-areas/population-health-interventions/) programme at the MRC Epidemiology Unit, University of Cambridge.
+I am a Research Associate in the [Population Health Interventions](https://www.mrc-epid.cam.ac.uk/research/research-areas/population-health-interventions/) programme at the MRC Epidemiology Unit, University of Cambridge.
 I work to better understand how people's environment influences their health and how changes to the environment might result in improved health.
 My research interests include evaluating the effects of policy interventions and changes to the environment on physical activity and active travel. 
-This involves using data from UK Biobank, the English Longitudinal Study of Aging (ELSA), the Office for National Statistics Longitudinal Study (ONS-LS) and the Commuting and Health in Cambridge Study, in addition to other routinely collected data.
-Background and experience
+This involves using data from UK Biobank, the English Longitudinal Study of Ageing (ELSA), the Office for National Statistics Longitudinal Study (ONS-LS) and the Commuting and Health in Cambridge Study, in addition to other routinely collected data.
+
+## Background and experience
 
 I have studied public health at the London School of Hygiene and Tropical Medicine (MSc) and Imperial College London (PhD). My doctorate investigated the physical activity-related health-effects of public transport use, using large quantitative datasets from the National Travel Survey and the ONS-LS.
 
