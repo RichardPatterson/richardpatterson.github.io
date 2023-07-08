@@ -197,8 +197,8 @@ along with the study quality.
     ggplot(df, aes(y=quality, x=position)) + geom_bar(stat="identity") +
       facet_grid(cols = vars(direction_effect)) 
 
-![](Harvest_plot_tutorial_files/figure-markdown_strict/unnamed-chunk-4-1.png)
-<img src="{{site.url}}/images/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
+![](/images/harvest_1.png)
+
 
 Using the *facet\_grid* option we disaggregate the studies based on
 their outcomes, allowing us to see the number of studies supporting each
@@ -220,9 +220,7 @@ between studies:
       guides(fill = guide_legend("Significant")) +
       geom_text(aes(label=n_interventions), position=position_dodge(width=0.9), vjust=-0.4)
 
-![](Harvest_plot_tutorial_files/figure-markdown_strict/unnamed-chunk-6-1.png)
-<img src="{{site.url}}/images/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
-
+![](/images/harvest_2.png)
 
 We can now see the statistical significance of the findings for each
 study (colour) and the number of intervention components (number above
@@ -248,8 +246,7 @@ the background.
             panel.grid.minor = element_blank(), 
             panel.background = element_blank())
 
-![](Harvest_plot_tutorial_files/figure-markdown_strict/unnamed-chunk-7-1.png)
-<img src="{{site.url}}/images/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
+![](/images/harvest_3.png)
 
 ------------------------------------------------------------------------
 
@@ -454,8 +451,7 @@ The final plot should look like this:
 
     drive_final
 
-![](Harvest_plot_tutorial_files/figure-markdown_strict/unnamed-chunk-16-1.png)
-<img src="{{site.url}}/images/unnamed-chunk-16-1.png" style="display: block; margin: auto;" />
+![](/images/harvest_4.png)
 
 <br><br>
 
@@ -489,8 +485,7 @@ The final plot should look like this:
 
     pt_final
 
-![](Harvest_plot_tutorial_files/figure-markdown_strict/unnamed-chunk-18-1.png)
-<img src="{{site.url}}/images/unnamed-chunk-18-1.png" style="display: block; margin: auto;" />
+![](/images/harvest_5.png)
 
 <br><br>
 
@@ -504,5 +499,4 @@ transport harvest plot figures together:
     ggarrange(drive_final, pt_final, hjust = -0.5,
                         ncol = 1, nrow = 2, common.legend = TRUE, legend='right')
 
-![](Harvest_plot_tutorial_files/figure-markdown_strict/unnamed-chunk-19-1.png)
-<img src="{{site.url}}/images/unnamed-chunk-19-1.png" style="display: block; margin: auto;" />
+![](/images/harvest_6.png)
