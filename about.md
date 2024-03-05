@@ -39,7 +39,7 @@ I have studied public health at the London School of Hygiene and Tropical Medici
 
 ## Software
 
-midlines: an R package to derive the midlines of an sf polygon v.0.0.1. Patterson R. <https://github.com/RichardPatterson/midlines>
+midlines: an R package to derive the midlines of an sf polygon v.0.0.0.9001 Patterson R. <https://github.com/RichardPatterson/midlines>
 
 ## Other
 
