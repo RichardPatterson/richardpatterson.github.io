@@ -26,7 +26,6 @@ end
 gem "csv"
 gem "bigdecimal"
 
-gem 'liquid', '~> 4.0', '>= 4.0.4'
 
 gem "fiddle"
 
@@ -49,4 +48,5 @@ gem 'nokogiri'
 gem 'rack', '~> 2.2.4'
 gem 'rspec'
 
-gem 'liquid', '~> 4.0', '>= 4.0.3'
+gem 'liquid', '~> 4.0', '>= 4.0.4'
+#gem 'liquid', '~> 4.0', '>= 4.0.3'
