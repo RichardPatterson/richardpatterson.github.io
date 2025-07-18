@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+redirect_to: https://richardpatterson.net/about/
 ---
 
 ## Current work & interests

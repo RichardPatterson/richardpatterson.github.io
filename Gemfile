@@ -29,6 +29,10 @@ gem "bigdecimal"
 
 gem "fiddle"
 
+gem 'jekyll-redirect-from'
+
+gem 'faraday-retry', '~> 2.3.2', '>= 2.3.2'
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :windows, :jruby do
@@ -50,3 +54,4 @@ gem 'rspec'
 
 gem 'liquid', '~> 4.0', '>= 4.0.4'
 #gem 'liquid', '~> 4.0', '>= 4.0.3'
+

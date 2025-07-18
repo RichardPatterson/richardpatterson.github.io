@@ -5,7 +5,8 @@ date:   2023-07-07
 author:
  Christina Xiao
  Richard Patterson
-tags: R 
+tags: R
+redirect_to: https://richardpatterson.net/2023/07/07/harvest_plot_tutorial.html
 ---
 
 ------------------------------------------------------------------------

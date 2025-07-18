@@ -4,6 +4,7 @@ author:
 - Richard Patterson
 title: "Merge networks and simplify in R with the midlines package"
 tags: [R, Rstats, network, cycle]
+redirect_to: https://richardpatterson.net/2023/08/06/network_merge.html
 ---
  
 
