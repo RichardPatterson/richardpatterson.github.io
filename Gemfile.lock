@@ -278,6 +278,9 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   liquid (~> 4.0, >= 4.0.4)
   minima (~> 2.5)
+  nokogiri
+  rack (~> 2.2.4)
+  rspec
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (>= 0.1.0)
@@ -285,3 +288,4 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.7.0
+
